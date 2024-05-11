@@ -70,7 +70,7 @@ export default function Login() {
             fullWidth
             variant="outlined"
           />
-          <Typography sx={{ margin: '5px' }}>Don't have an account? 
+          <Typography sx={{ margin: '5px' }}>Don&apos;t have an account? 
             <Link href="/register" underline="hover" sx={{ ml: '5px' }}>
               {'Register here.'}
             </Link>
